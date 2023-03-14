@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33020.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraznaKasovaBelejka", "PraznaKasovaBelejka\PraznaKasovaBelejka.csproj", "{2947C088-9C81-4C92-BC58-7E14FD152875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZnakZaCqloChislo", "ZnakZaCqloChislo\ZnakZaCqloChislo.csproj", "{9DC82716-9B87-4E61-9F7B-725ADE3965AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konvektor", "Konvektor\Konvektor.csproj", "{719D6AA1-0EC2-434C-83B7-D0BCE37A6872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresmqtaneNaLice", "PresmqtaneNaLice\PresmqtaneNaLice.csproj", "{65B4AA2E-0859-46A4-A610-9FA0CDEA952F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepen", "Stepen\Stepen.csproj", "{2E159665-B73B-4183-8AAC-D45CCBAC82E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoGolqmaStoinost", "PoGolqmaStoinost\PoGolqmaStoinost.csproj", "{48D5DED6-2235-424E-81B3-A64A69B9D8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2947C088-9C81-4C92-BC58-7E14FD152875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2947C088-9C81-4C92-BC58-7E14FD152875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2947C088-9C81-4C92-BC58-7E14FD152875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2947C088-9C81-4C92-BC58-7E14FD152875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC82716-9B87-4E61-9F7B-725ADE3965AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC82716-9B87-4E61-9F7B-725ADE3965AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC82716-9B87-4E61-9F7B-725ADE3965AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC82716-9B87-4E61-9F7B-725ADE3965AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719D6AA1-0EC2-434C-83B7-D0BCE37A6872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719D6AA1-0EC2-434C-83B7-D0BCE37A6872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719D6AA1-0EC2-434C-83B7-D0BCE37A6872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719D6AA1-0EC2-434C-83B7-D0BCE37A6872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B4AA2E-0859-46A4-A610-9FA0CDEA952F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B4AA2E-0859-46A4-A610-9FA0CDEA952F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B4AA2E-0859-46A4-A610-9FA0CDEA952F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B4AA2E-0859-46A4-A610-9FA0CDEA952F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E159665-B73B-4183-8AAC-D45CCBAC82E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E159665-B73B-4183-8AAC-D45CCBAC82E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E159665-B73B-4183-8AAC-D45CCBAC82E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E159665-B73B-4183-8AAC-D45CCBAC82E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D5DED6-2235-424E-81B3-A64A69B9D8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D5DED6-2235-424E-81B3-A64A69B9D8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D5DED6-2235-424E-81B3-A64A69B9D8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D5DED6-2235-424E-81B3-A64A69B9D8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C028CB5-0D0F-4865-AFE7-9AA79FD2AE52}
+	EndGlobalSection
+EndGlobal
